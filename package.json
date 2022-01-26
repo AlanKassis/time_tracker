@@ -1,0 +1,15 @@
+{
+  "name": "time_tracker",
+  "version": "1.0.0",
+  "description": "A Node.js program to keep track of how I spend my hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "prompt": "^1.2.1"
+  }
+}
