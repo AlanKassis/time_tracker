@@ -1,8 +1,6 @@
 //imports
 const readline = require('readline')
 var fs = require('fs').promises
-var path = require('path');
-var args = process.argv.splice(2)
 
 //handle input
 const rl = readline.createInterface({
